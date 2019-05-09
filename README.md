@@ -12,4 +12,3 @@ Install the gem as normal:
 ```
 sudo gem install serialport
 ```
-
